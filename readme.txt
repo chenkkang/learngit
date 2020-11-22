@@ -7,4 +7,6 @@ that are linjiatong
 creat branch dev
 branch master new add and update
 cerate branch feature
-new branch dev 
+new branch dev
+on dev chenkangkang
+update after lingjiatong 
